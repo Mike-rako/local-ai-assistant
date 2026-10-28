@@ -1,0 +1,7 @@
+python-dotenv
+llama-cpp-python
+faster-whisper
+sounddevice
+numpy
+keyboard
+pyperclip

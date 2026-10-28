@@ -1,0 +1,20 @@
+# Configuración local
+.env
+
+# Modelos (pesan varios GB; GitHub rechaza archivos > 100 MB)
+models/
+*.gguf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Empaquetado
+build/
+dist/
+*.spec
+
+# Audio temporal
+*.wav
